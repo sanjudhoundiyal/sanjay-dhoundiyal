@@ -28,6 +28,8 @@ Software Engineer | Full-Stack Developer
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+# 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=sanjudhoundiyal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjudhoundiyal&layout=compact&theme=radical)
