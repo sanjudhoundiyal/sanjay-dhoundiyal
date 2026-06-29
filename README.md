@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanjay Dhoundiyal</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=00FFCC&height=220&section=header&text=Sanjay%20Dhoundiyal&subtitle=Software%20Engineer%20%7C%20Full-Stack%20Developer&theme=dark&fontSize=40&animation=fadeIn" alt="Header Banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=1200&q=80" alt="Modern Workspace Banner" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot;Python+%2B+Django;React.js+%2B+Flutter;Learning+System+Design..." alt="Typing SVG" />
 </p>
 
 ---
@@ -13,17 +12,20 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <p>I am a passionate <b>Software Engineer</b> and <b>Full-Stack Developer</b> dedicated to building scalable, efficient, and user-centric applications. With expertise spanning robust backend systems to sleek mobile and web frontends, I love turning complex problems into elegant code.</p>
+    <td width="55%" valign="top">
+      <p>🚀 I am a passionate <b>Software Engineer</b> dedicated to building scalable backend systems and high-performance frontend applications.</p>
       <br />
       <ul>
-        <li>💼 <b>Current Focus:</b> Building robust enterprise applications</li>
-        <li>🌱 <b>Learning & Growing:</b> Deep diving into Advanced System Design & Microservices Architecture</li>
-        <li>☕ <b>Core Philosophy:</b> Write clean, maintainable, and self-documenting code</li>
+        <li>☕ <b>Backend:</b> Java, Spring Boot, Python, Django</li>
+        <li>📱 <b>Frontend & Mobile:</b> React.js, Flutter</li>
+        <li>🗄️ <b>Database:</b> MySQL</li>
+        <li>🌱 <b>Current Focus:</b> Deep diving into <b>System Design & Microservices</b></li>
       </ul>
+      <p><i>"Turning coffee into clean, efficient, and maintainable production code."</i></p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?auto=format&fit=crop&w=400&q=80" alt="Developer Coding" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" width="90%"/>
+    <td width="45%" align="center" valign="middle">
+      <!-- FIXED ANIMATED COMPUTER WORKSPACE IMAGE -->
+      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/coding.gif" alt="Animated Programmer Working" width="90%"/>
     </td>
   </tr>
 </table>
@@ -32,25 +34,26 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Backend & Core
+### 🛠️ Backend & Frameworks
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### 🎨 Frontend & Mobile
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter" />
-  </a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Tools
+### 🧰 Tools & Databases
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,linux,vscode" />
-  </a>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -58,18 +61,16 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanjudhoundiyal&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Sanjay's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjudhoundiyal&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjudhoundiyal&show_icons=true&theme=tokyonight&border_radius=10" alt="Sanjay's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjudhoundiyal&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjudhoundiyal&theme=radical&border_radius=10" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjudhoundiyal&theme=tokyonight&border_radius=10" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
 
 <p align="center">
-  Let's connect! 🔗 
-  <br />
-  <b>Happy Coding! 🚀</b>
+  <img src="https://capsule-render.vercel.app/type=rect&color=00FFCC&height=30&section=footer&theme=dark" width="100%" />
 </p>
