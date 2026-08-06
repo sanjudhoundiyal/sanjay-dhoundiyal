@@ -1,163 +1,144 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sanjudhoundiyal&label=PROFILE+VIEWS&color=0078d4&style=flat-square" alt="Visitor Counter" />
+# 👋 Hi, I'm Sanjay Dhoundiyal
 
-<br />
+### Software Engineer • Java Backend Developer • Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=0078d4&center=true&vCenter=true&width=700&height=70&lines=SANJAY+DHOUNDIYAL;Software+Engineer;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Microservices+Enthusiast;Open+Source+Learner" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-India-0078d4?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_To_Work-Yes-0078d4?style=for-the-badge" />
+<p>
+<img src="https://komarev.com/ghpvc/?username=sanjudhoundiyal&label=Visitors&color=0ea5e9&style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-India-blue?style=flat-square"/>
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a passionate Software Engineer who enjoys building scalable backend systems and modern web applications.
+
+### Currently
+
+- 🌱 Learning Microservices
+- ☁️ Learning AWS Cloud
+- 💻 Building Java Spring Boot Projects
+- 📚 Improving System Design
+- 🎯 Looking for Software Engineer Opportunities
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,django,nodejs"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,aws"/>
 </p>
 
 ---
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5N3BiaHlsbDJ6NTN0cXN5cmh5Zms3bThpZmw5bXN0Y3FwY29zdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding Animation" />
+# 📊 GitHub Analytics
 
-</div>
+<p align="center">
 
-## 🌐 About Me
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjudhoundiyal&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-> 👋 **Hi there! I'm Sanjay Dhoundiyal.**
->
-> I am a versatile **Software Engineer** and **Full-Stack Developer** based in India, passionate about building robust backend architectures and sleek, responsive user interfaces. 
-> 
-> 🚀 Currently diving deep into scalable microservices architectures, advanced system design principles, and cloud engineering.
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=sanjudhoundiyal&theme=tokyonight&hide_border=true"/>
 
-* 💡 **Current Focus:** Engineering high-performance, resilient enterprise applications.
-* 🧠 **Learning:** Microservices, System Design patterns, and AWS Cloud Engineering.
-* ⚡ **Fun Fact:** I enjoy breaking down complex monolithic puzzles into clean, manageable microservices.
+</p>
 
----
+<p align="center">
 
-## 🛠️ Tech Stack
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjudhoundiyal&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,django,react,html,css,js,flutter,mysql,git,github,docker,postman,vscode,aws,linux&theme=dark" alt="Sanjay's Tech Stack" />
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanjudhoundiyal&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</div>
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjudhoundiyal&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-## 📊 Analytics & Performance
+# 🐍 Contribution Snake
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=sanjudhoundiyal&show_icons=true&theme=onedark&hide_border=true&count_private=true" id="gh-stats" alt="GitHub Stats" height="180" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjudhoundiyal&theme=onedark&hide_border=true" id="gh-streak" alt="GitHub Streak" height="180" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjudhoundiyal&layout=compact&theme=onedark&hide_border=true&langs_count=8" id="gh-langs" alt="Top Languages" height="180" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sanjudhoundiyal/sanjudhoundiyal/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjudhoundiyal&theme=github-dark-teal&area=true" width="100%" alt="Activity Graph" />
-</div>
+# 🚀 Featured Projects
+
+| Project | Tech |
+|---------|------|
+| 🎵 Sportify Clone | React + Spring Boot |
+| 💼 Job Portal | Spring Boot + MySQL |
+| 📧 MailFlow | Java + Spring Boot |
+| 🤖 AI Resume Analyzer | Python + Django |
+| 🛒 Ecommerce API | Spring Boot |
+| 📱 Flutter Notes App | Flutter |
 
 ---
 
-## 📌 Pinned & Featured Projects
+# 📫 Connect With Me
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjudhoundiyal&repo=repo-name-placeholder1&theme=onedark&hide_border=true" alt="Pinned Repo 1" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanjudhoundiyal&repo=repo-name-placeholder2&theme=onedark&hide_border=true" alt="Pinned Repo 2" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
 
----
-
-## 🗂️ All Public Repositories
-
-### 🌟 Live Repositories Grid
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>📂 <a href="https://github.com/sanjudhoundiyal">Loading Repository...</a></h3>
-        <p><em>Description loading or repository private. Check back soon!</em></p>
-        <p>🛠️ <b>Language:</b> Java &nbsp;&nbsp; ⭐ <b>Stars:</b> -- &nbsp;&nbsp; 🍴 <b>Forks:</b> --</p>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📂 <a href="https://github.com/sanjudhoundiyal">Loading Repository...</a></h3>
-        <p><em>Description loading or repository private. Check back soon!</em></p>
-        <p>🛠️ <b>Language:</b> Python &nbsp;&nbsp; ⭐ <b>Stars:</b> -- &nbsp;&nbsp; 🍴 <b>Forks:</b> --</p>
-      </td>
-    </tr>
-  </table>
-</div>
----
-
-## 🤝 Open Source Contributions
-<div align="center">
-  <p>Active contributor to modern software ecosystems, libraries, and developer tools.</p>
-  <img src="https://img.shields.io/badge/Contributions-Welcome-0078d4?style=flat-square" alt="Contributions Welcome" />
-</div>
-
----
-
-## 🪱 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sanjudhoundiyal/sanjudhoundiyal/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</div>
-
----
-
-## 💬 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/sanjudhoundiyal" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:sanjudhoundiyal@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/sanjudhoundiyal" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://linkedin.com/in/sanjudhoundiyal">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</div>
+<a href="mailto:sanjudhoundiyal@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
----
+<a href="https://github.com/sanjudhoundiyal">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-## 💖 Support
-<div align="center">
-  <p>If you find my projects helpful, consider supporting my open-source journey!</p>
-  <a href="https://www.buymeacoffee.com/sanjudhoundiyal" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" width="150" />
-  </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
-  <sub>⚡ Quote of the Day: "The best way to predict the future is to invent it."</sub>
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
 </div>
