@@ -32,38 +32,67 @@ I'm a passionate Software Engineer who enjoys building scalable backend systems 
 
 # 🛠 Tech Stack
 
-## Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,django,nodejs"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux,aws"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c,cpp,html,css" />
 </p>
 
 ---
 
+## ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,maven,gradle,hibernate" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,flutter" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
+</p>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,bash" />
+</p>
+
+---
+
+## 🔧 Tools & IDEs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea,eclipse,figma" />
+</p>
+
+---
+
+## 🧪 Testing & API
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,junit" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,redis,kafka" />
+</p>
 # 📊 GitHub Analytics
 
 <p align="center">
