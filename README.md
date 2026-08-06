@@ -92,38 +92,15 @@ I'm a passionate Software Engineer who enjoys building scalable backend systems 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/sanjudhoundiyal/sanjudhoundiyal/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Tech |
-|---------|------|
-| 🎵 Sportify Clone | React + Spring Boot |
-| 💼 Job Portal | Spring Boot + MySQL |
-| 📧 MailFlow | Java + Spring Boot |
-| 🤖 AI Resume Analyzer | Python + Django |
-| 🛒 Ecommerce API | Spring Boot |
-| 📱 Flutter Notes App | Flutter |
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://linkedin.com/in/sanjudhoundiyal">
+<a href="https://www.linkedin.com/in/sanjay-dhoundiyal-35bb47322/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:sanjudhoundiyal@gmail.com">
+<a href="mailto:sanjay.dhoundiyal01@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
