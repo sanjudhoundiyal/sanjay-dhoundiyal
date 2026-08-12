@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Microservices+Enthusiast;Open+Source+Learner" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=sanjudhoundiyal&label=Visitors&color=0ea5e9&style=flat-square"/>
 <img src="https://img.shields.io/badge/Open%20To%20Work-YES-success?style=flat-square"/>
 <img src="https://img.shields.io/badge/Location-India-blue?style=flat-square"/>
 </p>
